@@ -2,7 +2,7 @@
 
 ### Consultor e Docente
 
-Gosto de Programar, Estudar e Pescar
+Gosto de Programar, Estudar e Pescar <br>
 Não necessariamente nesta mesma ordem 😎
 
 #### Programação em Python
