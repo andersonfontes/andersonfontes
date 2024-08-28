@@ -1,16 +1,16 @@
-### Hi there 👋
+# Anderson Fontes
 
-<!--
-**andersonfontes/andersonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Consultor e Docente
 
-Here are some ideas to get you started:
+Gosto de Programar, Estudar e Pescar
+Não necessariamente nesta mesma ordem 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programação em Python
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png)
+
+#### Programação em Javascript
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png)
+
+#### Banco de Dados 
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*euY0eeNSpWWQThZL.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3P-jnVaFvLyC8AweZzJ9vQY6Y4egFM2tLQ&s)
