@@ -32,8 +32,8 @@ Não necessariamente nesta mesma ordem 😎
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=andersonfontes&cc=000&tc=fff&ic=fff&bc=000" width="49%" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=andersonfontes&layout=compact&cc=000&tc=fff&ic=fff&bc=000" width="49%" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=andersonfontes&cc=000&tc=fff&ic=fff&bc=000"  />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=andersonfontes&layout=compact&cc=000&tc=fff&ic=fff&bc=000"  />
 </div>
 
 ---
