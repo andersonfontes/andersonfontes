@@ -31,7 +31,7 @@ Não necessariamente nesta mesma ordem 😎
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; padding=0;">
   <img src="https://github-readme-stats.vercel.app/api?username=andersonfontes&theme=react&show_icons=true&hide_border=true&count_private=true" width="52.5%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfontes&theme=react&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </div>
