@@ -33,7 +33,7 @@ Não necessariamente nesta mesma ordem 😎
 
 <div style="display: flex; justify-content: space-evenly;">
   <img src="https://github-stats-alpha.vercel.app/api/?username=andersonfontes&cc=000&tc=fff&ic=fff&bc=000" width="70%" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=andersonfontes&layout=compact&cc=000&tc=fff&ic=fff&bc=000"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfontes&layout=compact&theme=radical" />
 </div>
 
 ---
