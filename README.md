@@ -2,7 +2,7 @@
 ## SENAI Morvan Figueiredo - Mooca - SP
 
 Gosto de Programar, Estudar e Pescar  
-Não necessariamente nesta mesma ordem 
+(não necessariamente nesta mesma ordem) 
 
 ---
 
