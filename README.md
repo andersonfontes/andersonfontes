@@ -1,5 +1,6 @@
 # 👨‍🏫 Consultor e Docente
 ## SENAI Morvan Figueiredo - Mooca - SP
+## SENAI Suiço-Brasileiro - Santo Amaro - SP
 
 Gosto de Programar, Estudar e Pescar  
 (não necessariamente nesta mesma ordem) 
