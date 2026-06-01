@@ -3,7 +3,7 @@
 #### SENAI Suíço-Brasileiro - Santo Amaro - SP
 
 Gosto de Programar, Estudar e Pescar  
-(não necessariamente nesta mesma ordem) 
+(não necessariamente nesta ordem) 
 
 ---
 
